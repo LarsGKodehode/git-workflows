@@ -49,4 +49,4 @@ GitHub Action for continuous build and deployment.
             - run: npm run build --if-present
                 Runs the script located in package.json.
             
-            Last bit deploys to branch gh-pages. [Action Homepage](https://github.com/marketplace/actions/github-pages-action).
+            Last bit deploys to branch gh-pages. [Action Homepage](https://github.com/marketplace/actions/github-pages-action).rx
